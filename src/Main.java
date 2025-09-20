@@ -12,7 +12,7 @@ public class Main {
             System.out.println("i = " + i);
 
             //Chnged in gitHub
-            //edited in local
+            //Changes from local
         }
     }
 }
